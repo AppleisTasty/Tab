@@ -1,4 +1,4 @@
-# Tab
+# README
 ### Hey guys 😃 This is Tab.
 
 #### I accomplished my master's degree from `The University of Manchester` in the year of 2022.
