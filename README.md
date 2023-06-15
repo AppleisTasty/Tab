@@ -1,7 +1,7 @@
 # README
 ### Hey guys 😃 This is Tab.
 
-#### I accomplished my master's degree from `The University of Manchester` in the year of 2022.
+#### I accomplished my master's degree at `The University of Manchester` in the year of 2022.
 
 [![The University of Manchester](https://raw.githubusercontent.com/AppleisTasty/PicGarage/master/tmp/202306152051238.png)](https://www.manchester.ac.uk/)
 
