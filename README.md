@@ -9,4 +9,4 @@
 
 ### So that's why I made this repository.
 
-#### Hope you find some interesting stuff here, and let me know if I made any mistake.
+#### Hope you find some interesting stuff here, and let me know if you have any better idea. Cheers🍺！
